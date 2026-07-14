@@ -958,3 +958,8 @@ section.dim {
   max-width: 1440px;
   margin: 0 auto;
 }
+.no-trip {
+  text-align: center;
+  font-size: 20px;
+  padding: 15%;
+}
