@@ -1,0 +1,25 @@
+.header-layout {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  width: 200px;
+}
+.menu-list ul {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.counsel p {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  background: #000;
+  padding: 9px 18px;
+  border-radius: 999px;
+  transition: background 0.2s;
+}
